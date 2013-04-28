@@ -15,7 +15,6 @@ module.exports = function(jsonIn) {
     var lastChar = str4.substr(str4.length - 1 );
     if (lastChar == '&') {
         var str5 = finString.substr(0, str4.length-1 );
-        console.log('str5 is ',str5);
         return str5;
 
     } else {

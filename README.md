@@ -1,4 +1,4 @@
-Jape is a simple way to convert a JSON object to a single URI Encoded string. Such strings can be used in API requests when one wants to use a comfortable JSON object and get it converted to a URL friendly string. It changes '` `'' (a space) to `%20` and similar, and also supports multi-property objects by concatenating with `&`.
+Jape is a simple way to convert a JSON object to a single URI Encoded string. Such strings can be used in API requests when one wants to use a comfortable JSON object and get it converted to a URL friendly string. It changes ` ' ' ` (a space) to ` %20 ` and similar, and also supports multi-property objects by concatenating with ` & `.
 
     var jape = require('jape');
     var jsonObject = {
