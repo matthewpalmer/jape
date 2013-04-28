@@ -1,0 +1,8 @@
+{
+    "name" : "jape",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "mocha" : "*",
+        "expect.js" : "*"
+    }
+}
