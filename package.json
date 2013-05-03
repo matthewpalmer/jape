@@ -1,6 +1,6 @@
 {
     "name" : "jape",
-    "version" : "0.0.2",
+    "version" : "0.0.3",
     "description" : "Jape is a simple way to convert a JSON object to a single URI Encoded string.",
     "main":"index.js",
     "scripts" : {
