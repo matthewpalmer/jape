@@ -9,7 +9,7 @@
     "repository" : "https://github.com/matthewpalmer/jape.git",
     "author":"Matthew Palmer",
     "license":"BSD",
-    "dependencies" : {
+    "devDependencies" : {
         "mocha" : "*",
         "expect.js" : "*"
     },
